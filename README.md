@@ -1,4 +1,4 @@
-# Gajendra-demo
+#Employee-Management-System
 💼 Employee Management System (Java Swing Project)
 📌 Project Description
 
