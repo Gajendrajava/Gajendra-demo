@@ -1,0 +1,80 @@
+💼 Employee Management System (Java)
+📌 Project Overview
+
+The Employee Management System is a desktop-based application developed using Java (Swing & AWT). It helps organizations manage employee records efficiently, including adding employees, viewing details, attendance management, and user authentication (Login/Signup).
+
+This project is suitable for beginners to understand Java GUI development and basic CRUD operations.
+
+🚀 Features
+🔐 User Authentication (Login & Signup)
+➕ Add New Employees
+👨‍💼 View Employee Details
+📊 Employee Dashboard
+🕒 Attendance Management
+🚪 Logout Functionality
+🎨 GUI-based Interface using Swing
+🛠️ Technologies Used
+Java (JDK 8+)
+Swing & AWT (GUI)
+OOP Concepts
+Event Handling
+📂 Project Structure
+EmployeeManagementSystemProject/
+│
+├── AddAttendence.java
+├── addemployees.java
+├── EmployeeMainDeshboard.java
+├── LoginFrame.java
+├── Login_Signup.java
+├── SignupFrame.java
+├── SplashScreen.java
+├── ViewEmployeesPanel.java
+├── logout.java
+├── modified_Home1.java
+└── (Image & assets)
+▶️ How to Run the Project
+
+Clone the repository:
+
+git clone https://github.com/your-username/EmployeeManagementSystem.git
+Open the project in any Java IDE:
+IntelliJ IDEA
+Eclipse
+NetBeans
+Compile and run the project:
+Start from SplashScreen.java or LoginFrame.java
+🔑 Default Workflow
+Open application
+Signup (if new user)
+Login
+Access Dashboard
+Add/View Employees
+Manage Attendance
+Logout
+📸 Screens (Optional)
+
+You can add screenshots here later:
+
+Login Page
+Dashboard
+Employee Form
+📈 Future Enhancements
+Database Integration (MySQL)
+Search & Filter Employees
+Update/Delete Employee Records
+Role-based Access (Admin/User)
+Export Reports (PDF/Excel)
+🤝 Contributing
+
+Contributions are welcome!
+Feel free to fork this repo and submit a pull request.
+
+📄 License
+
+This project is open-source and free to use.
+
+👨‍💻 Author
+
+Your Name
+B.Tech CSE Student
+Interested in Java & Software Development
