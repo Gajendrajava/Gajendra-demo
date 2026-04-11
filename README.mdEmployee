@@ -23,13 +23,10 @@ EmployeeManagementSystemProject/
 │
 ├── AddAttendence.java
 ├── addemployees.java
-├── EmployeeMainDeshboard.java
-├── LoginFrame.java
 ├── Login_Signup.java
 ├── SignupFrame.java
 ├── SplashScreen.java
 ├── ViewEmployeesPanel.java
-├── logout.java
 ├── modified_Home1.java
 └── (Image & assets)
 ▶️ How to Run the Project
